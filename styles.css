@@ -1,0 +1,18 @@
+h1 {
+    color:grey;
+    }
+    img {
+    width: 400px;     
+    }
+    
+    #thirdDiv {
+    width: 500px;
+    height: 825px;
+    background-color:lightgray;
+    padding: 50px;
+    border: solid 10px cadetblue;
+    }
+    #spanId {
+    font-size: 25px;
+    margin: 50px;    
+    }
